@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about my repositories or Python/CSS/ML
 - 📫 How to reach me: fanwei1995@hotmail.com
 
-Education and Working Experience
+Education and Work Experience
 
 - 2019.9 - 2022.6 : Wuhan Institute of Technology, Master Degree in Computer Application Technology
 - 2016.7 - 2019.7 : Hefei Weimao Network Technology Co., Ltd. Front-end development engineer
