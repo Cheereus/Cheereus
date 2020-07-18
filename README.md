@@ -17,9 +17,11 @@ Education and Working Experience
 - 2016.7 - 2019.7 : Hefei Weimao Network Technology Co., Ltd. Front-end development engineer
 - 2011.9 - 2016.6 : Tongji University, Bachelor Degree in Biotechnology
 
+<!--
 Skills
 
 - HTML&CSS :star::star::star::star:
 - Javascript :star::star::star:
 - Python :star::star:
 - C++ :star:
+-->
