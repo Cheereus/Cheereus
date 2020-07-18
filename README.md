@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently studying for a master's degree
 - 🌱 I’m currently learning ML and Python
 - 💬 Ask me about my repositories or Python/CSS/ML
-- 📫 How to reach me: fanwei1995@hotmail.com
+- 📫 My blog: [陈十一的博客](https://www.cheereus.com)
 
 Education and Work Experience
 
