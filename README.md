@@ -4,12 +4,12 @@
 **Cheereus/Cheereus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+-->
 
 - 🔭 I’m currently studying for a master's degree
 - 🌱 I’m currently learning ML and Python
 - 💬 Ask me about my repositories or Python/CSS/ML
 - 📫 How to reach me: fanwei1995@hotmail.com
--->
 
 Education and Working Experience
 
