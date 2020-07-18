@@ -15,7 +15,7 @@ Education and Working Experience
 
 - 2019.9 - 2022.6 : Wuhan Institute of Technology, Master Degree in Computer Application Technology
 - 2016.7 - 2019.7 : Hefei Weimao Network Technology Co., Ltd. Front-end development engineer
-- 2011.9 - 2016.6 ：Tongji University, Bachelor Degree in Biotechnology
+- 2011.9 - 2016.6 : Tongji University, Bachelor Degree in Biotechnology
 
 Skills
 
