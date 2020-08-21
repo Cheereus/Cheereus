@@ -11,10 +11,12 @@ Here are some ideas to get you started:
 - 💬 Ask me about my repositories or Python/CSS/ML
 - 📫 My blog: [陈十一的博客](https://www.cheereus.com)
 
-Education and Work Experience
-
+| My GitHub Stats                                                                                                          | Language used most                                                                     |
+|--------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|
+| ![Cheereus's github stats](https://github-readme-stats.vercel.app/api?username=Cheereus&show_icons=true&theme=onedark) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cheereus) |
 
 <!--
+Education and Work Experience
 Skills
 
 - HTML&CSS :star::star::star::star:
