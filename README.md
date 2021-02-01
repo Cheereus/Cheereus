@@ -11,9 +11,9 @@ Here are some ideas to get you started:
 - 💬 I'm finding a intern job of Machine Learning or Python development
 - 📫 My blog & resume: [陈十一的博客](https://www.cheereus.com)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cheereus)
-
-![Cheereus's github stats](https://github-readme-stats.vercel.app/api?username=Cheereus&show_icons=true&theme=onedark)
+|----|----|
+|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cheereus)|![Cheereus's github stats](https://github-readme-stats.vercel.app/api?username=Cheereus&show_icons=true&theme=onedark)|
+|----|----|
 
 Skills
 - Python :star::star::star::star:
