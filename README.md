@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 |----|----|
 
 Skills
-- Python :star::star::star::star:
-- HTML&CSS :star::star::star:
-- Javascript :star::star::star:
-- C++ :star:
+- Python&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;       :star::star::star::star:
+- HTML&CSS&nbsp;&nbsp;&nbsp;&nbsp;     :star::star::star:
+- Javascript&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   :star::star::star:
+- C++&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :star:
 
 See more about my resume: [陈十一的简历](https://www.cheereus.com/resume)
