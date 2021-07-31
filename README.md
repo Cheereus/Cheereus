@@ -4,6 +4,7 @@
 **Cheereus/Cheereus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Education and Work Experience
+- 2021.7 - 2022.1 : SenseTime Technology, Test development engineer (intern)
 - 2019.9 - 2022.6 : Wuhan Institute of Technology, Master Degree in Computer Application Technology
 - 2016.7 - 2019.7 : Hefei Weimao Network Technology Co., Ltd. Front-end development engineer
 - 2011.9 - 2016.6 : Tongji University, Bachelor Degree in Biotechnology
@@ -20,7 +21,7 @@ Here are some ideas to get you started:
 
 Skills
 - Python :star::star::star::star:
-- HTML&CSS :star::star::star::star:
+- HTML&CSS :star::star::star:
 - Javascript :star::star::star:
 - C++ :star:
 
