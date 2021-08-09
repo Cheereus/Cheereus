@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently studying for a master's degree
 - 🌱 I’m currently learning ML and Python
-- 💬 I'm now a SDET intern (Software Design Engineer in Test) at SenseTime Technology
+- 💬 I'm now a SDET (Software Design Engineer in Test) intern at SenseTime Technology
 - 📫 My blog: [陈十一的博客](https://www.cheereus.com)
 
 |![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cheereus&theme=onedark)|![Cheereus's github stats](https://github-readme-stats.vercel.app/api?username=Cheereus&show_icons=true&theme=onedark)|
