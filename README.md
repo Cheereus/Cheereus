@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently studying for a master's degree
-- 🌱 I’m currently learning ML and Python
+- 🌱 I’m currently learning Python and Linux
 - 💬 I'm now a SDET (Software Design Engineer in Test) intern at SenseTime Technology
 - 📫 My blog: [陈十一的博客](https://www.cheereus.com)
 
@@ -23,6 +23,6 @@ Skills
 - Python&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;       :star::star::star::star:
 - HTML&CSS&nbsp;&nbsp;&nbsp;&nbsp;     :star::star::star:
 - Javascript&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   :star::star::star:
-- C++&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :star:
+- Linux &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :star::star:
 
 See more about my resume: [陈十一的简历](https://www.cheereus.com/resume)
