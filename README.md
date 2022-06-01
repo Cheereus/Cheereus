@@ -23,6 +23,6 @@ Skills
 - Python&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;       :star::star::star::star:
 - HTML&CSS&nbsp;&nbsp;&nbsp;&nbsp;     :star::star::star:
 - Javascript&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   :star::star::star:
-- Linux &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :star::star:
+- Linux &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :star::star:
 
 See more about my resume: [陈十一的简历](https://www.cheereus.com/resume)
