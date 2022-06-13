@@ -11,9 +11,8 @@ Education and Work Experience
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently studying for a master's degree
 - 🌱 I’m currently learning Python and Linux
-- 💬 I'm now a SDET (Software Design Engineer in Test) intern at SenseTime Technology
+- 💬 I'm now a SDET (Software Design Engineer in Test) at SenseTime Technology (Beijing)
 - 📫 My blog: [陈十一的博客](https://www.cheereus.com)
 
 <!--
