@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning Python and Linux
 - 💬 I'm now a SDET (Software Design Engineer in Test) at SenseTime Technology (Beijing)
-- 📫 My blog: [陈十一的博客](https://www.cheereus.com)
+- 📫 My blog: [范图曼的博客](https://www.cheereus.com)
 
 <!--
 |![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cheereus&theme=onedark)|![Cheereus's github stats](https://github-readme-stats.vercel.app/api?username=Cheereus&show_icons=true&theme=onedark)|
@@ -27,4 +27,4 @@ Skills
 - Javascript&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   :star::star::star:
 - Linux &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :star::star:
 
-See more about my resume: [陈十一的简历](https://www.cheereus.com/resume)
+See more about my resume: [范图曼的简历](https://www.cheereus.com/resume)
