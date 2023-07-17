@@ -22,9 +22,11 @@ Here are some ideas to get you started:
 ![Cheereus's github stats](https://github-readme-stats.vercel.app/api?username=Cheereus&show_icons=true&theme=onedark)
 
 Skills
-- Python&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;       :star::star::star::star:
-- HTML&CSS&nbsp;&nbsp;&nbsp;&nbsp;     :star::star::star:
-- Javascript&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   :star::star::star:
-- Linux &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :star::star:
+- Python &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;       :star::star::star::star:
+- HTML&CSS &nbsp;&nbsp;&nbsp;&nbsp;     :star::star::star:
+- Linux &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :star::star:
+- Storage Test &nbsp;&nbsp;&nbsp;  :star::star:
+- Javascript &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  :star::star:
+- K8s &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :star:
 
 See more about my resume: [范图曼的简历](https://www.cheereus.com/resume)
